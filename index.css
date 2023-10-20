@@ -1,0 +1,221 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter', sans-serif;
+}
+.logo{
+    width: 155px;
+}
+header{
+    margin:0px 50px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul li {
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+nav ul{
+    font-size: 20px;
+    display:flex;
+    gap: 15px;
+}
+.login{
+   padding: 10px 30px; 
+    background-color: white;
+    color: rgb(49, 199, 49);
+    border:none;
+}
+.sign{
+    padding: 10px 30px;   
+    background-color: rgb(40, 209, 40);
+    color: white;
+    border:none;
+    margin-left: 5px;
+}
+button{
+    padding: 14px 40px 14px 32px;
+    background-color: rgb(40, 209, 40);
+    color: white;
+    border:none;
+    border-radius:6px;
+}
+.lessons{
+        display:flex;
+    gap:10px;
+    padding: 40px;
+}
+.sp{
+    color:rgb(40, 209, 40);
+    gap:20px;
+}
+.im{
+    margin-top: 50px;
+    margin-left: 300px;
+    width: 391px;
+    height: 407px;
+
+}
+.hr{
+    font-size: 80px;
+}
+
+.sui{
+    margin-top: 40px;
+    font-size: 30px;
+    text-align: center;
+}
+.ic{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.gr{
+    width: 65px;
+}
+.ptext{
+    margin-top: -50px;
+}
+.lorem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.frame{
+    width:441.53px;
+}
+.helping{
+    display: flex;
+    gap:400px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 40px;
+
+}
+.icon{
+    display: flex;
+    align-items: center;
+    gap:15px;
+}
+.vec{
+    width: 48px;
+}
+.help{
+    font-size: 50px;
+}
+.num{
+    font-size: 35px;
+}
+.cl{
+    font-size: 20px;
+    margin-top: -15px;
+}
+.business{
+    color: rgb(40, 209, 40);
+}
+.pan{
+    width: 441.53px;
+}
+.how{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    margin-right: 200px;
+    margin-top: 30px;
+
+}
+.like{
+    font-size: 30px;
+}
+.british{
+    display: flex;
+    margin-top: 50px;
+    gap: 200px;
+}
+.tesla{
+    width: 326px;
+}
+.fra{
+    width: 600px;
+}
+.tim{
+    color: rgb(40, 209, 40);
+}
+.ttt{
+    text-align: justify;
+}
+.caring{
+    text-align: center;
+    font-size: 30px;
+}
+.las{
+    width: 1440px;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    background-color:black;
+    color: white;
+    font-size: 15px;
+    padding: 30px 40px;
+}
+.so{
+    width: 176px;
+}
+.de{
+    margin-left: 700px;
+}
+.demo{
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    padding: 10px 5px;
+}
+.lo{
+    width: 155px;
+    background-color:black;
+    color: white;
+    padding: 30px 0px;
+}
+.one{
+    font-size: 20px;
+}
+.iii{
+    width: 328px;
+}
+.hh{
+    display: flex;
+    margin-left: 200px;
+    text-align: center;
+    gap: 20px;
+}
+.more{
+    display: flex;
+    align-items: center;
+    color: rgb(40, 209, 40);
+}
+.rig{
+    width: 24px;
+    height: 24px;
+}
+.pn{
+    width: 24px;
+    height: 24px;
+}
+.sec{
+    background-color:
+    #F5F7FA;
+    padding: 40px;
+}
+.min{
+    margin: 40px;
+}
